@@ -1,0 +1,9 @@
+{
+	"name": "mydatapipeline-instance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b335233-195d-43ee-994c-bc50336c279b",
+		"tenantId": "02c81775-766a-408b-a32d-b5f0bb9a50f5"
+	}
+}
